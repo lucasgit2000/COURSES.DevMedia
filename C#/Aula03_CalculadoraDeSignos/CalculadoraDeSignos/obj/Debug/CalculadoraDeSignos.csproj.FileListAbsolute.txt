@@ -1,0 +1,7 @@
+D:\Dropbox\Cursos\1. Programação\C#\.NET Devmedia\5. Curso(MinhaPrimeiraAplicacaoC#)\Aulas\Aula03_CalculadoraDeSignos\CalculadoraDeSignos\bin\Debug\CalculadoraDeSignos.exe.config
+D:\Dropbox\Cursos\1. Programação\C#\.NET Devmedia\5. Curso(MinhaPrimeiraAplicacaoC#)\Aulas\Aula03_CalculadoraDeSignos\CalculadoraDeSignos\bin\Debug\CalculadoraDeSignos.exe
+D:\Dropbox\Cursos\1. Programação\C#\.NET Devmedia\5. Curso(MinhaPrimeiraAplicacaoC#)\Aulas\Aula03_CalculadoraDeSignos\CalculadoraDeSignos\bin\Debug\CalculadoraDeSignos.pdb
+D:\Dropbox\Cursos\1. Programação\C#\.NET Devmedia\5. Curso(MinhaPrimeiraAplicacaoC#)\Aulas\Aula03_CalculadoraDeSignos\CalculadoraDeSignos\obj\Debug\CalculadoraDeSignos.csprojAssemblyReference.cache
+D:\Dropbox\Cursos\1. Programação\C#\.NET Devmedia\5. Curso(MinhaPrimeiraAplicacaoC#)\Aulas\Aula03_CalculadoraDeSignos\CalculadoraDeSignos\obj\Debug\CalculadoraDeSignos.csproj.CoreCompileInputs.cache
+D:\Dropbox\Cursos\1. Programação\C#\.NET Devmedia\5. Curso(MinhaPrimeiraAplicacaoC#)\Aulas\Aula03_CalculadoraDeSignos\CalculadoraDeSignos\obj\Debug\CalculadoraDeSignos.exe
+D:\Dropbox\Cursos\1. Programação\C#\.NET Devmedia\5. Curso(MinhaPrimeiraAplicacaoC#)\Aulas\Aula03_CalculadoraDeSignos\CalculadoraDeSignos\obj\Debug\CalculadoraDeSignos.pdb

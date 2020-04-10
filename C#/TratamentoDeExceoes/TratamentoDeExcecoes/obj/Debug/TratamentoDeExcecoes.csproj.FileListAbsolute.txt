@@ -1,0 +1,7 @@
+D:\Dropbox\Cursos\1. Programação\C#\.NET Devmedia\8. Curso(ExceptionsC#)\AplicacaoUsadaNoCurso\TratamentoDeExceoes\TratamentoDeExcecoes\bin\Debug\TratamentoDeExcecoes.exe.config
+D:\Dropbox\Cursos\1. Programação\C#\.NET Devmedia\8. Curso(ExceptionsC#)\AplicacaoUsadaNoCurso\TratamentoDeExceoes\TratamentoDeExcecoes\bin\Debug\TratamentoDeExcecoes.exe
+D:\Dropbox\Cursos\1. Programação\C#\.NET Devmedia\8. Curso(ExceptionsC#)\AplicacaoUsadaNoCurso\TratamentoDeExceoes\TratamentoDeExcecoes\bin\Debug\TratamentoDeExcecoes.pdb
+D:\Dropbox\Cursos\1. Programação\C#\.NET Devmedia\8. Curso(ExceptionsC#)\AplicacaoUsadaNoCurso\TratamentoDeExceoes\TratamentoDeExcecoes\obj\Debug\TratamentoDeExcecoes.csprojAssemblyReference.cache
+D:\Dropbox\Cursos\1. Programação\C#\.NET Devmedia\8. Curso(ExceptionsC#)\AplicacaoUsadaNoCurso\TratamentoDeExceoes\TratamentoDeExcecoes\obj\Debug\TratamentoDeExcecoes.csproj.CoreCompileInputs.cache
+D:\Dropbox\Cursos\1. Programação\C#\.NET Devmedia\8. Curso(ExceptionsC#)\AplicacaoUsadaNoCurso\TratamentoDeExceoes\TratamentoDeExcecoes\obj\Debug\TratamentoDeExcecoes.exe
+D:\Dropbox\Cursos\1. Programação\C#\.NET Devmedia\8. Curso(ExceptionsC#)\AplicacaoUsadaNoCurso\TratamentoDeExceoes\TratamentoDeExcecoes\obj\Debug\TratamentoDeExcecoes.pdb
